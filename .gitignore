@@ -12,7 +12,6 @@ wheels/
 .venv
 
 # Claude Code settings
-.claude/
 CLAUDE.md
 .env
 
