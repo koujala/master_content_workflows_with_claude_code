@@ -1,0 +1,10 @@
+{
+  "title": "Claude Agent SDK",
+  "emoji": "🤖",
+  "subtitle": "Claude Code's agent harness, as a library",
+  "summary": "The Agent SDK lets you embed Claude Code's agent loop in your own app.",
+  "category": "AI & Agents",
+  "tags": ["claude", "agents", "sdk", "mcp", "python", "typescript"],
+  "created": "2026-11-13",
+  "status": "draft"
+}

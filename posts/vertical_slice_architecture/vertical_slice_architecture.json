@@ -1,0 +1,10 @@
+{
+  "title": "Vertical Slice Architecture",
+  "emoji": "🧱",
+  "subtitle": "Organize code by feature, not by layer",
+  "summary": "Build around what the system does, not how it's layered.",
+  "category": "Software Architecture",
+  "tags": ["architecture", "vsa", "cqrs", "dotnet"],
+  "created": "2026-11-13",
+  "status": "draft"
+}

@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>My Author – Posts</title>
+<link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+<header>
+  <h1>📚 Posts</h1>
+  <p class="sub">All topics under <code>/posts</code>. The index rebuilds automatically; to run it by hand: <code>python .claude/hooks/build_index.py</code>.</p>
+</header>
+
+<div class="bar">
+  <input id="q" type="search" placeholder="Search title, summary, tags…">
+  <select id="cat"><option value="">All categories</option></select>
+  <select id="status"><option value="">All statuses</option></select>
+  <select id="sort">
+    <option value="new">Newest first</option>
+    <option value="old">Oldest first</option>
+    <option value="az">Title A–Z</option>
+  </select>
+</div>
+<div class="tags" id="tags"></div>
+<div class="count" id="count"></div>
+<main id="grid"></main>
+
+<script src="posts-data.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,77 @@
+[
+  {
+    "name": "claude_agent_sdk_overview",
+    "title": "Claude Agent SDK",
+    "emoji": "🤖",
+    "subtitle": "Claude Code's agent harness, as a library",
+    "summary": "The Agent SDK lets you embed Claude Code's agent loop in your own app.",
+    "category": "AI & Agents",
+    "tags": [
+      "claude",
+      "agents",
+      "sdk",
+      "mcp",
+      "python",
+      "typescript"
+    ],
+    "created": "2026-11-13",
+    "status": "draft",
+    "shortChars": 489,
+    "longChars": 1042,
+    "files": {
+      "short": true,
+      "long": true,
+      "prompt": true,
+      "image": true
+    }
+  },
+  {
+    "name": "madurai_ancient_temple_city",
+    "title": "Madurai: The Ancient Temple City",
+    "emoji": "🛕",
+    "subtitle": "A living city that has never stopped breathing",
+    "summary": "Madurai is a 2,500-year-old temple city that still runs on tradition while modernizing.",
+    "category": "Culture & Places",
+    "tags": [
+      "madurai",
+      "tamil-nadu",
+      "india",
+      "heritage",
+      "smart-city"
+    ],
+    "created": "2026-11-13",
+    "status": "draft",
+    "shortChars": 472,
+    "longChars": 1079,
+    "files": {
+      "short": true,
+      "long": true,
+      "prompt": true,
+      "image": true
+    }
+  },
+  {
+    "name": "vertical_slice_architecture",
+    "title": "Vertical Slice Architecture",
+    "emoji": "🧱",
+    "subtitle": "Organize code by feature, not by layer",
+    "summary": "Build around what the system does, not how it's layered.",
+    "category": "Software Architecture",
+    "tags": [
+      "architecture",
+      "vsa",
+      "cqrs",
+      "dotnet"
+    ],
+    "created": "2026-11-13",
+    "status": "draft",
+    "shortChars": 491,
+    "longChars": 5052,
+    "files": {
+      "short": true,
+      "long": true,
+      "prompt": true,
+      "image": true
+    }
+  }
+]
