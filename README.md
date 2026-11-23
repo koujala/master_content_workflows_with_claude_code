@@ -40,7 +40,8 @@ To rebuild the index by hand: `python .claude/hooks/build_index.py`
 
 | # | Lesson | Covers |
 |---|--------|--------|
-| 1 | Set Up Your AI Content Workspace | Install Node.js, Python, VS Code, Live Server and Claude Code, then check everything works |
-| 2 | Your First Claude Code Session | Start from an empty folder, send a first prompt, and learn what skills and hooks are |
+| 1 | Welcome to Master Content Workflows | Course overview, what we'll build, and what you need |
+| 2 | Set Up Your AI Content Workspace | Install Node.js, Python, VS Code, Live Server and Claude Code, then check everything works |
+| 3 | Your First Claude Code Session | Start from an empty folder, send a first prompt, and learn what skills and hooks are |
 
 Lesson slides live in `docs/`, which links to the course content project.
